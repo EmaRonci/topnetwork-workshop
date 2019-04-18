@@ -27,6 +27,7 @@ Workshops partecipants:
 | ---------- | ------- | --------------------------- |
 | Alessandro | Poli    | alessandro.poli@mondora.com |
 | Manuel     | Serra   | manuel.serra@mondora.com    |
+| Emanuele   | Ronci   | emanuele.ronci@top-network.it|
 
 Exercise: make your personal pull request and fill this table.
 
